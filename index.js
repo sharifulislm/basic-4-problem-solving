@@ -91,8 +91,10 @@ function oddFriend(fvrfrid) {
 			}
 		}
 	} else {
-		return 'Tell me your Right Frind Name ..'
+		return 'tell me your right firnd name  ..'
 	}
 
 }
 console.log(oddFriend(myFriend))
+
+// basic problem solvint 
